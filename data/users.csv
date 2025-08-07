@@ -1,0 +1,5 @@
+user_id,age,gender,usage_type
+U001,25,F,running
+U002,30,M,formal
+U003,22,F,casual
+U004,35,M,trekking

@@ -1,0 +1,9 @@
+user_id,shoe_id,action,timestamp
+U001,S001,view,2025-07-01
+U001,S002,purchase,2025-07-03
+U002,S003,like,2025-07-04
+U003,S005,purchase,2025-07-02
+U004,S004,view,2025-07-05
+U004,S003,view,2025-07-06
+U003,S001,view,2025-07-03
+U002,S003,purchase,2025-07-07

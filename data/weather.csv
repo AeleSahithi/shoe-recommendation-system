@@ -1,0 +1,5 @@
+user_id,date,location,condition
+U001,2025-07-01,Hyderabad,sunny
+U002,2025-07-01,Delhi,rainy
+U003,2025-07-01,Pune,cloudy
+U004,2025-07-01,Bangalore,humid

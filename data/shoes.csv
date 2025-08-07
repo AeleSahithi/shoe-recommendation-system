@@ -1,0 +1,6 @@
+shoe_id,brand,model,type,material,size,color,care_req
+S001,Nike,ZoomX,running,mesh,7,blue,low
+S002,Adidas,Ultraboost,running,mesh,8,black,medium
+S003,Bata,Oxford,formal,leather,9,brown,high
+S004,Woodland,Hiker,trekking,leather,10,green,high
+S005,Reebok,Classic,casual,synthetic,7,white,low
