@@ -1,4 +1,4 @@
-### Shoe Recommendation & Personalized Service System
+## Shoe Recommendation & Personalized Service System
 
 This project implements a shoe recommendation engine and a personalized service module based on user interaction history, shoe metadata, and contextual weather data.
 
